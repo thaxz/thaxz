@@ -24,6 +24,6 @@
   
   ##
 
-![Snake animation](https://github.com/thaxz/thaxz/blob/output/github-contribution-grid-snake.svg)
+
     
   
