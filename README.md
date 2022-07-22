@@ -6,7 +6,7 @@
 - 🔭 Currently working on Mobile development
 - 🍎 I'm an Apple Developer Academy Student
 - 📝 Currently learning Swift
-- 💬 I’m interest in technology, information architecture and UI/UX Design.
+- 💬 I’m interested in technology, information architecture and UI/UX Design.
 
 <div align="center">
   <a href="https://github.com/thaxz">
