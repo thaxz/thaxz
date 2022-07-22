@@ -1,5 +1,13 @@
 ### Thaís Monteiro
 
+👋🏻 Hello!
+
+🔉 I'm 20 years old architecture student at UFPE 
+🔭 Currently working on Mobile development
+🍎 I'm an Apple Developer Academy Student
+📝 Currently learning Swift
+💬 I’m interest in technology, information architecture and UI/UX Design.
+
 <div align="center">
   <a href="https://github.com/thaxz">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thaxz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
