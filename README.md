@@ -2,7 +2,6 @@
 
 ##  Hello! 👋🏻
 
-- 🔉 I'm a 20 years old architecture student at UFPE 
 - 🔭 Currently working on IOS development
 - 🍎 I'm an Apple Developer Academy Student
 - 📝 Currently learning Swift
