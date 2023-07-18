@@ -5,7 +5,7 @@
 - 🔭 Currently working on IOS development
 - 🍎 I'm an Apple Developer Academy Student
 - 📝 Currently learning Swift
-- 💬 I’m interested in technology, information architecture and UI/UX Design.
+- 💬 I’m interested in design patterns, clean code and SwiftUI 
 
   ## ✉️  Contact me! 
   
